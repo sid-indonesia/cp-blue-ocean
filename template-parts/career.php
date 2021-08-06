@@ -46,7 +46,7 @@ if (pll_current_language() == 'en') {
                                 <img class="profile-sample2" src="<?php echo $image[0]; ?>" alt="<?php the_title(); ?>">
 
                             <?php } else {  ?>
-                                <img class="profile-sample2" src="<?php bloginfo('template_directory'); ?>/img/core-img/default-thumbnail2.jpg" alt="<?php the_title(); ?>" />
+                                <img class="profile-sample2" src="<?php bloginfo('template_directory'); ?>/img/core-img/default-thumbnail2.png" alt="<?php the_title(); ?>" />
                             <?php  }  ?>
                             <figcaption>
                                 <h3><?php the_title(); ?></h3>
