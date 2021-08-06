@@ -4,7 +4,7 @@
         $s_vision        = "Our Vision";
         $s_mission       = "Our Mission";
         $s_history       = "History";
-        $content_history = "The Summit Institute of Development (SID) was legally established in 2007. " ;
+        $content_history = "The Summit Institute for Development (SID) was legally established in 2007. " ;
         $content_vision  = "Improvement in health and human development at the community level through research and evidence-based programs, participatory decision-making, and sustainable action.";
         $content_mission ="Improved participation for every member of the community in decision-making, use of data and information, ideas, suggestions and opinions.";
 	$link_history    = "/history/";
@@ -15,7 +15,7 @@
         $s_vision        = "Visi Kami";
         $s_mission       = "Misi Kami";
         $s_history       = "Sejarah";
-        $content_history = "Yayasan Institut Pengembangan Suara Mitra atau dikenal juga sebagai SUMMIT Institute of Development (SID) secara resmi berdiri pada tahun 2007.";
+        $content_history = "Yayasan Institut Pengembangan Suara Mitra atau dikenal juga sebagai SUMMIT Institute for Development (SID) secara resmi berdiri pada tahun 2007.";
         $content_vision  ="Peningkatan kesehatan dan pembangunan manusia di tingkat masyarakat melalui
                            pengambilan keputusan partisipatif berbasis bukti dan aksi kelanjutan";
         $content_mission ="Peningkatan partisipasi setiap anggota masyarakat dalam pengambilan keputusan, dalam bentuk informasi, ide saran atau pendapat.";

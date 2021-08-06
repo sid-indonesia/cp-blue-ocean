@@ -84,7 +84,7 @@ if (pll_current_language() == 'en') {
         <div class="container">
             <div class="row py-4 d-flex align-items-center">
                 <div class="col-md-6 col-lg-5 text-center text-white text-md-left mb-4 mb-md-0">
-                    <h6 class="mb-0 small text-white">© <?php echo date("Y");?> Copyright SUMMIT Institute of Development</h6>
+                    <h6 class="mb-0 small text-white">© <?php echo date("Y");?> Copyright SUMMIT Institute for Development</h6>
                 </div>
                 <div class="col-md-6 col-lg-7 text-center text-md-right">
                     <!-- Facebook -->

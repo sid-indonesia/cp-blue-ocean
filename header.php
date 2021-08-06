@@ -9,7 +9,7 @@
     <meta name="theme-color" content="#00a6e9">
 
 	 <meta name="description" content="<?php echo get_bloginfo( 'description' ); ?>">
-    <meta name="author" content="SUMMIT Institute of Development">
+    <meta name="author" content="SUMMIT Institute for Development">
     <meta property="og:title" content="    <?php if 	( is_home() ) 		{ bloginfo('name');}
 				elseif 	( is_category() ) 	{ single_cat_title(); echo ' - '; bloginfo('name'); }
 				elseif 	( is_single() ) 	{ single_post_title(); echo ' - '; bloginfo('name'); }
