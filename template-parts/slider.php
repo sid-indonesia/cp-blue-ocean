@@ -3,24 +3,24 @@
     $slide_btn ="ABOUT";
     $slide_title_1 ="OpenSRP";
     $slide_content_1="Digital system to assist midwives in providing real-time data-driven care.";
-    $slide_link_1 = "http://sid-indonesia.org/opensrp-platform/";
+    $slide_link_1 = "/opensrp-platform/";
     $slide_title_2 ="WHO ANC Module";
     $slide_content_2 ="Implementing WHO ANC recommendations through mobile application.";
-    $slide_link_2 = "http://sid-indonesia.org/who-anc-module-prototype/";
+    $slide_link_2 = "/who-anc-module-prototype/";
     $slide_title_3 ="Malaria Rapid Diagnostic Test (RDT) Application";
     $slide_content_3 ="Establishing Open Standard for RDT through mHealth solution.";
-    $slide_link_3 = "http://sid-indonesia.org/rdt-malaria/";
+    $slide_link_3 = "/rdt-malaria/";
   } else if(pll_current_language() == 'id') {
     $slide_btn ="Selengkapnya";
     $slide_title_1 ="OpenSRP";
     $slide_content_1="Sistem digital yang membantu bidan memberikan pelayanan kesehatan berdasarkan data.";
-    $slide_link_1 = "https://sid-indonesia.org/id/opensrp/";
+    $slide_link_1 = "/id/opensrp/";
     $slide_title_2 ="WHO ANC Module";
     $slide_content_2 ="Implementasi rekomendasi WHO untuk ANC melalui aplikasi mobile.";
-    $slide_link_2 = "https://sid-indonesia.org/id/who-anc-module/";
+    $slide_link_2 = "/id/who-anc-module/";
     $slide_title_3 ="RDT Malaria";
     $slide_content_3 ="Membangun standar pembuatan RDT menggunakan solusi mHealth.";
-    $slide_link_3 = "http://sid-indonesia.org/id/rdt-malaria-2/";  
+    $slide_link_3 = "/id/rdt-malaria-2/";
 }
 ?>
 <!-- ===== English Area Start =====-->
